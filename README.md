@@ -17,7 +17,7 @@ This was one of the **first working web projects I ever created**, and I’ve ke
 
 
 <p align="center">
-  <img src="calcjpg" width="400" />
+  <img src="calc.jpg" width="400" />
 </p>
 
 ---
